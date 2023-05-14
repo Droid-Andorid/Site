@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Raleway;
+    box-sizing: border-box;
+}
+
+.hello{
+    padding-top: 160px;
+}
+
+.hello h1{
+    padding-top: 50px;
+    font-size: 80px;
+}
+
+.hello p{
+    font-size: 30px;
+}
+
+.hello a{
+    margin-top: 20px;
+}
